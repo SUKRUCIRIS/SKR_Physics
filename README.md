@@ -4,7 +4,7 @@ SKR_Physics is a lightweight and easy to use 2D physics engine which is written 
 # Features
 It has a rectangle based collision detection system which is almost perfect.
 
-You can create a world with gravity and air friction. Moreover, you can create static, kinematic and dynamic objects inside this world.(If you aren't familiar with these terms, check the header file of the library.) 
+You can create a world with gravity and air friction. You can create static, kinematic and dynamic objects inside this world. (If you aren't familiar with these terms, check the header file of the library.) 
 
 You can simulate the world for the time you set.
 
