@@ -9,7 +9,7 @@ typedef struct {
 
 //Positions are in centimeters, weights are in kg, forces are in newtons, Gravity is in m/s^2, Velocities are in m/s
 //I believe you can understand how to use functions by their names and explanations
-//Also you should check the basic SKR example to understand better this library
+//Also you should check the basic SKR examples to understand better this library
 
 typedef struct SKR_StaticRect SKR_StaticRect;
 
