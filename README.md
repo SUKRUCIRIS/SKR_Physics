@@ -10,8 +10,6 @@ You can simulate the world for the time you set.
 
 It has no dependency.
 
-Unfortunately, there are only dynamic-static and dynamic-kinematic interactions for now. I am still thinking to how to resolve dynamic-dynamic interactions. I will update the library as I solve problems like this. 
-
 # How to use it
 You should examine the header file and the examples to learn how to use it. The examples are SDL implementations of this library. Also there are demos in the files, you can download and quickly check if the engine works well.
 
