@@ -1,3 +1,6 @@
+# Warning
+This library has been added to SKR framework (https://github.com/SUKRUCIRIS/SKR) and this repository won't be updated anymore.  
+
 # SKR_Physics
 SKR_Physics is a lightweight and easy to use 2D physics engine which is written in C.
 
